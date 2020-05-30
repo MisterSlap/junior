@@ -57,6 +57,11 @@ color: #33cc43;
 
 }
 
+.about {
+  font-size: 20px;
+
+}
+
 .hero-image {
   margin-bottom: 620px;
 }
@@ -203,3 +208,4 @@ color: #33cc43;
   padding-left: 25px;
   background-image: url("img/icon-phone-footer.svg");
 }
+
