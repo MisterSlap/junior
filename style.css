@@ -3,18 +3,22 @@ body {
   min-width: 960px;
   font-family: "Montserrat", "Helvetica", "Arial", sans-serif;
   font-size: 16px;
-  line-height: 32px;
+  line-height: 36px;
   color: #222222;
   background-color: #f2f4f6;
   background-image: url("img/hero-bg.jpg");
   background-repeat: no-repeat;
   background-position: top center;
 }
+.contacts {
+color: #33cc43;
+
+}
 
 .container {
   max-width: 928px;
   margin: 0 auto;
-  padding: 0 16px;
+  padding: 0 20px;
 }
 
 .page-header {
@@ -44,6 +48,13 @@ body {
 .header-phone {
   padding-left: 25px;
   background-image: url("img/icon-phone-header.svg");
+}
+
+.header-inst {
+  padding-left: 30px;
+  background-image: url('img/icon-inst.svg');
+
+
 }
 
 .hero-image {
